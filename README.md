@@ -12,3 +12,5 @@ print(result) # output should be a dictionary containing the result in liters, u
 
 How This Fits the SNAP Project:
 This tool can be integrated into a LangChain agent for providing quantitative results in agricultural applications. Especially when prompting the amount of water needed for a specific crop growth with other factors given.
+
+![alt text](image.png)
